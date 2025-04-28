@@ -132,7 +132,7 @@
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parzivallx&theme=neon&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parzivallx&theme=neon&layout=compact&custom_title=Tecnologias&langs_count=2" 
   />
 
 </p>
